@@ -88,7 +88,7 @@
 ## 🌐 个人网站
 
 <div align="center">
-  <a href="https://mengjian.dev">https://mengjian.dev</a>
+  <a href="https://mengjian.site">https://mengjian.site</a>
 </div>
 
 ---
