@@ -7,7 +7,7 @@
 ## 🚀 关于我
 
 - 🔭 目前在**字节跳动**担任 **Flow-Parallel 前端团队负责人**
-- 📚 《DeepSeek极简入门与应用》作者，[京东购买链接](https://item.jd.com/14960026.html)
+- 📚 《DeepSeek极简入门与应用》作者，销量突破60万册！[京东购买链接](https://item.jd.com/14960026.html)
 - 🎓 **豆包Marscode官方讲师**，分享AI编程相关知识
 - 💻 10年+前端开发经验，专注于大型互联网产品研发与技术
 - 🤖 致力于推动 **AI 与前端技术融合**发展
@@ -23,6 +23,8 @@
         <img src="https://github.com/mengjian-github/mengjian-github/raw/main/deepseek-book.jpg" width="250" alt="DeepSeek极简入门与应用">
         <br>
         <strong>DeepSeek极简入门与应用</strong>
+        <br>
+        <span>销量突破60万册！</span>
         <br>
         <a href="https://item.jd.com/14960026.html">📚 京东购买</a>
       </td>
@@ -72,6 +74,7 @@
 
 ## 🎖️ 荣誉奖项
 
+- **出版成就**：《DeepSeek极简入门与应用》销量突破60万册，成为AI领域畅销书
 - **公司荣誉**：获得十二项公司级荣誉，3 项专业级荣誉
 - **技术影响力**：KM 技术文章 7 级影响力，分享达人，7 篇技术文章获 KM 总榜
 - **行业演讲**：腾讯云专场 AI 分享交流、GMTC 全球大前端技术大会演讲嘉宾
