@@ -107,7 +107,7 @@
   <a href="https://github.com/mengjian-github"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://www.zhihu.com/people/meng-jian-39-32"><img src="https://img.shields.io/badge/知乎-0084FF?style=for-the-badge&logo=zhihu&logoColor=white" alt="知乎" /></a>
   <a href="https://juejin.cn/user/4212984287073895"><img src="https://img.shields.io/badge/掘金-007FFF?style=for-the-badge&logo=juejin&logoColor=white" alt="掘金" /></a>
-  <a href="https://mp.weixin.qq.com/s/IkluVSLTf4nvlOJbLfZyGg"><img src="https://img.shields.io/badge/微信公众号-07C160?style=for-the-badge&logo=wechat&logoColor=white" alt="微信公众号" /></a>
+  <a href="https://mp.weixin.qq.com/s/Z4k_5_waWJbRRo5lZBZmog"><img src="https://img.shields.io/badge/微信公众号-07C160?style=for-the-badge&logo=wechat&logoColor=white" alt="微信公众号" /></a>
 </div>
 
 ## 🌐 个人网站
@@ -121,5 +121,5 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=mengjian-github&color=blueviolet" alt="访问计数器" />
   <p>欢迎加入我的 AI 编程陪伴群，与志同道合的开发者一起学习，交流前沿技术，共同成长。</p>
-  <a href="https://mp.weixin.qq.com/s/IkluVSLTf4nvlOJbLfZyGg">点击加入</a>
+  <a href="https://mp.weixin.qq.com/s/Z4k_5_waWJbRRo5lZBZmog">点击加入</a>
 </div>
