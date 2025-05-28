@@ -47,22 +47,43 @@
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" alt="Electron" />
   <img src="https://img.shields.io/badge/AI-FF6F00?style=for-the-badge&logo=ai&logoColor=white" alt="AI" />
   <img src="https://img.shields.io/badge/D2C-FF4785?style=for-the-badge&logo=storybook&logoColor=white" alt="D2C" />
 </div>
 
 ## 🏆 精选项目
 
+### 🤖 [微信群聊日报生成器](https://www.wechatdaily.online/)
+基于 AI 的微信群聊分析工具，自动提取话题精华、群友金句和跟进事项，一键生成美观的图片日报。
+- **技术栈**：Electron + React + TypeScript + AI
+- **特色功能**：智能分析、精美日报、跨平台支持
+- **下载量**：10K+ 用户，5★ 评分
+
+### 📝 [飞书文档转公众号排版工具](https://www.larkmd.online/)
+专业的在线工具，帮助用户快速将飞书文档转换为美观的微信公众号文章。
+- **技术栈**：Next.js + TailwindCSS + React Markdown
+- **特色功能**：一键转换、实时预览、完整样式支持
+- **用户反馈**：显著提升内容创作效率
+
 ### 🔍 [逆向分析 Copilot](https://github.com/mengjian-github/copilot-analysis)
 深入剖析 GitHub Copilot 的工作原理，获得上千 star 的开源项目。
+- **技术栈**：VSCode 插件开发、逆向工程
+- **影响力**：GitHub 1000+ stars，技术社区广泛关注
 
-### 📝 [飞书文档转公众号排版工具](https://lark-to-markdown.vercel.app/)
-一个便捷的工具，帮助用户将飞书文档转换为适合公众号的排版格式。
+### 📚 [React 源码全解](https://meng-jian.gitbook.io/react-yuan-ma-quan-jie/)
+深入解析 React 源码的开源电子书，从源码角度解析 React 的设计思想和实现细节。
+- **内容深度**：涵盖 React 核心机制和源码实现
+- **社区影响**：帮助众多开发者深入理解 React
 
 ## 📊 GitHub 统计
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mengjian-github&show_icons=true&theme=radical" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mengjian-github&theme=radical" alt="GitHub Streak" />
 </div>
 
 ## 🏢 工作经历
@@ -75,6 +96,7 @@
 ## 🎖️ 荣誉奖项
 
 - **出版成就**：《DeepSeek极简入门与应用》销量突破60万册，成为AI领域畅销书
+- **开源贡献**：多个开源项目获得社区认可，累计 GitHub stars 2000+
 - **公司荣誉**：获得十二项公司级荣誉，3 项专业级荣誉
 - **技术影响力**：KM 技术文章 7 级影响力，分享达人，7 篇技术文章获 KM 总榜
 - **行业演讲**：腾讯云专场 AI 分享交流、GMTC 全球大前端技术大会演讲嘉宾
