@@ -1,139 +1,41 @@
 # 👋 你好，我是孟健
 
-<div align="center">
-  <img src="https://github.com/mengjian-github/mengjian-github/raw/main/header.png" alt="孟健 - 技术开发专家" width="800">
-</div>
+AI 编程创业者 / 技术作者 / 演讲者。  
+前腾讯 T11，前字节跳动 3-1，现为 **Nextfield Labs LLC** 创始人。
 
-## 🚀 关于我
+## 我现在在做什么
 
-- 🔭 前腾讯 T11 · 前字节跳动 3-1 · 现 **Nextfield Labs LLC** 创始人，全职 AI 编程 + 出海创业
-- 📚 《DeepSeek极简入门与应用》作者，销量突破 **93 万册**！[京东购买链接](https://item.jd.com/14960026.html)
-- 📢 公众号「孟健AI编程」**3 万+** 粉丝
-- 🚀 主产品 [字流 ziliu.online](https://ziliu.online) — 14 平台一键发布工具
-- 🎤 **GIAC / GMTC 演讲嘉宾**，破局AI行动家大会分享嘉宾
-- 💻 10 年+技术开发经验，专注于大型互联网产品研发与技术
-- 🤖 致力于推动 **AI 与技术融合**发展
-- 🌱 AI 领域深耕 **D2C（Design To Code）**、**Github Copilot** 等前沿技术研究
-- 🔍 具备全栈开发能力，包括设计、后台、客户端等全栈研发经验
+- 🤖 **AI 编程**：把 AI 真正用进开发流程、内容流程和产品流程
+- 🌍 **出海产品**：持续做小产品矩阵、SEO 增长与工具型网站
+- ✍️ **技术写作**：公众号「孟健AI编程」持续更新
+- 📚 **出版与分享**：已出版 AI 主题书籍，并持续对外演讲与分享
 
-## 📖 我的著作
+## 代表项目
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://github.com/mengjian-github/mengjian-github/raw/main/deepseek-book.jpg" width="250" alt="DeepSeek极简入门与应用">
-        <br>
-        <strong>DeepSeek极简入门与应用</strong>
-        <br>
-        <span>销量突破93万册！</span>
-        <br>
-        <a href="https://item.jd.com/14960026.html">📚 京东购买</a>
-      </td>
-      <td align="center" width="50%">
-        <img src="https://github.com/mengjian-github/mengjian-github/raw/main/react-book.png" width="250" alt="React 源码全解">
-        <br>
-        <strong>React 源码全解</strong>
-        <br>
-        <a href="https://github.com/mengjian-github">📖 开源电子书</a>
-      </td>
-    </tr>
-  </table>
-</div>
+- [字流 ziliu.online](https://ziliu.online) — AI 驱动的多平台内容发布工具
+- [OpenClaw 101](https://openclaw101.dev) — 从零开始上手 AI 私人助理
+- [MCP Hub 中国](https://mcp-cn.com) — MCP 中文生态平台
+- [copilot-analysis](https://github.com/mengjian-github/copilot-analysis) — 对 GitHub Copilot 的逆向分析与研究
 
-## 🛠️ 技术栈
+## 关键词
 
-<div align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" alt="Electron" />
-  <img src="https://img.shields.io/badge/AI-FF6F00?style=for-the-badge&logo=ai&logoColor=white" alt="AI" />
-  <img src="https://img.shields.io/badge/D2C-FF4785?style=for-the-badge&logo=storybook&logoColor=white" alt="D2C" />
-</div>
+`AI 编程` `出海增长` `Next.js` `TypeScript` `Cloudflare` `SEO` `自动化` `开发者工具`
 
-## 🏆 精选项目
+## 关于我
 
-### 🤖 [微信群聊日报生成器](https://www.wechatdaily.online/)
-基于 AI 的微信群聊分析工具，自动提取话题精华、群友金句和跟进事项，一键生成美观的图片日报。
-- **技术栈**：Electron + React + TypeScript + AI
-- **特色功能**：智能分析、精美日报、跨平台支持
-- **下载量**：10K+ 用户，5★ 评分
+- 前腾讯 8 年，最高职级 **T11**
+- 前字节跳动 **Flow / 猫箱 BagelBell** 前端技术 Leader（3-1）
+- 2025 年开始全职创业，主线聚焦 **AI 编程 + 出海增长 + 产品落地**
+- 个人品牌正在从“大厂技术负责人”升级为“能写、能讲、能做产品、能做增长”的复合型创业者
 
-### 📝 [飞书文档转公众号排版工具](https://www.larkmd.online/)
-专业的在线工具，帮助用户快速将飞书文档转换为美观的微信公众号文章。
-- **技术栈**：Next.js + TailwindCSS + React Markdown
-- **特色功能**：一键转换、实时预览、完整样式支持
-- **用户反馈**：显著提升内容创作效率
+## 找到我
 
-### 🔍 [逆向分析 Copilot](https://github.com/mengjian-github/copilot-analysis)
-深入剖析 GitHub Copilot 的工作原理，获得上千 star 的开源项目。
-- **技术栈**：VSCode 插件开发、逆向工程
-- **影响力**：GitHub 1000+ stars，技术社区广泛关注
-
-### 🚀 [字流 ziliu.online](https://ziliu.online)
-14 平台一键发布工具，创作者的效率利器（主产品）。
-- **技术栈**：Next.js + TypeScript + AI
-- **特色功能**：一键分发至微信公众号、知乎、掘金等 14 个平台
-
-### 🌐 [MCP Hub 中国 mcp-cn.com](https://mcp-cn.com)
-MCP 服务综合平台，收录国内 MCP 服务与资源。
-- **定位**：MCP 服务发现与导航
-- **特色功能**：分类浏览、搜索、一键接入
-
-### 📘 [OpenClaw 101 openclaw101.dev](https://openclaw101.dev)
-AI 助手入门导航站，帮助用户快速上手 OpenClaw。
-- **定位**：新手友好的入门教程与资源汇总
-- **特色功能**：交互式指南、最佳实践
-
-### 📚 [React 源码全解](https://meng-jian.gitbook.io/react-yuan-ma-quan-jie/)
-深入解析 React 源码的开源电子书，从源码角度解析 React 的设计思想和实现细节。
-- **内容深度**：涵盖 React 核心机制和源码实现
-- **社区影响**：帮助众多开发者深入理解 React
-
-## 📊 GitHub 统计
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mengjian-github&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mengjian-github&theme=radical" alt="GitHub Streak" />
-</div>
-
-## 🏢 工作经历
-
-- **Nextfield Labs LLC** - 创始人/CEO (2025.10 至今)
-- **字节跳动** - Flow 部门前端技术 Leader（3-1），负责猫箱 BagelBell (2024 - 2025.10)
-- **腾讯** - QQ 大技术五组负责人（T11）(2022.12 - 2024)
-- **腾讯** - 腾讯课堂运营技术负责人 (2018.03 - 2022.11)
-- **腾讯** - 厘米秀产品中心 技术开发 (2016.07 - 2018.03)
-
-## 🎖️ 荣誉奖项
-
-- **出版成就**：《DeepSeek极简入门与应用》销量突破 **93 万册**，成为 AI 领域畅销书
-- **开源贡献**：多个开源项目获得社区认可，累计 GitHub stars 2000+
-- **公司荣誉**：获得十二项公司级荣誉，3 项专业级荣誉
-- **技术影响力**：KM 技术文章 7 级影响力，分享达人，7 篇技术文章获 KM 总榜
-- **行业演讲**：GIAC 全球互联网架构大会 2025 深圳站讲师、GMTC 全球大前端技术大会演讲嘉宾
-- **行业分享**：破局AI行动家大会 2025 主会场分享嘉宾
-
-## 📫 联系我
-
-<div align="center">
-  <a href="https://github.com/mengjian-github"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://www.zhihu.com/people/meng-jian-39-32"><img src="https://img.shields.io/badge/知乎-0084FF?style=for-the-badge&logo=zhihu&logoColor=white" alt="知乎" /></a>
-  <a href="https://juejin.cn/user/4212984287073895"><img src="https://img.shields.io/badge/掘金-007FFF?style=for-the-badge&logo=juejin&logoColor=white" alt="掘金" /></a>
-  <a href="https://mp.weixin.qq.com/s/Z4k_5_waWJbRRo5lZBZmog"><img src="https://img.shields.io/badge/微信公众号-07C160?style=for-the-badge&logo=wechat&logoColor=white" alt="微信公众号" /></a>
-  <a href="https://mengjian.site"><img src="https://img.shields.io/badge/个人网站-mengjian.site-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="个人网站" /></a>
-</div>
+- 🌐 个人主页：https://mengjian.site
+- 🐙 GitHub：https://github.com/mengjian-github
+- 知乎：https://www.zhihu.com/people/meng-jian-39-32
+- 掘金：https://juejin.cn/user/4212984287073895
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mengjian-github&color=blueviolet" alt="访问计数器" />
-  <p>欢迎加入我的 AI 编程陪伴群，与志同道合的开发者一起学习，交流前沿技术，共同成长。</p>
-  <a href="https://mp.weixin.qq.com/s/Z4k_5_waWJbRRo5lZBZmog">点击加入</a>
-</div>
+如果你也在做 AI 编程、开发者工具、内容工具或者出海产品，欢迎交流。  
+我更关注 **真正能落地、能增长、能规模化** 的东西。
