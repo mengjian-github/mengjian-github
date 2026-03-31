@@ -48,6 +48,8 @@
 ![](https://img.shields.io/github/stars/mengjian-github/copilot-analysis?style=flat-square&color=F59E0B&label=copilot-analysis&logo=github)
 ![](https://img.shields.io/github/stars/mengjian-github/xiaomo-starter-kit?style=flat-square&color=F59E0B&label=xiaomo-starter-kit&logo=github)
 
+<img src="https://streak-stats.demolab.com?user=mengjian-github&theme=dark&hide_border=true&ring=F59E0B&fire=F59E0B&currStreakLabel=F59E0B&sideLabels=888&dates=555" width="100%" />
+
 </td>
 </tr>
 </table>
