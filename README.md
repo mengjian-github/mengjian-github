@@ -38,9 +38,9 @@
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=mengjian-github&show_icons=true&theme=transparent&hide_border=true&hide_title=true&include_all_commits=true&count_private=true&text_color=888&icon_color=F59E0B" width="100%" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mengjian-github&show_icons=true&theme=transparent&hide_border=true&hide_title=true&include_all_commits=true&count_private=true&text_color=888&icon_color=F59E0B" width="100%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=mengjian-github&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=F59E0B&fire=F59E0B&currStreakLabel=F59E0B" width="100%" />
+<img src="https://streak-stats.demolab.com?user=mengjian-github&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=F59E0B&fire=F59E0B&currStreakLabel=F59E0B" width="100%" />
 
 </td>
 </tr>
@@ -106,7 +106,7 @@ AI 驱动的 14 平台一键发布工具
 ### 🎤 演讲 & 出版
 
 - 📕 **《DeepSeek极简入门与应用》** — 京东有售
-- 📕 **OpenClaw 主题新书** — AI 助手与工作流
+- 📕 **《OpenClaw极简入门与应用》** — 京东有售
 - 🎙️ **GIAC 全球互联网架构大会** 2025 深圳站讲师
 - 🎙️ **GMTC 全球大前端技术大会** 演讲嘉宾
 - 🎙️ **破局 AI 行动家大会** 2025 主会场分享
