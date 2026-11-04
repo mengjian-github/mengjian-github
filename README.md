@@ -2,13 +2,13 @@
 
 # 👋 Hi, I'm 孟健 (Meng Jian)
 
-**AI 编程创业者 · 技术作者 · 演讲者**
+**AI 编程创业者 · 出海产品实践者 · 技术作者 & 演讲者**
 
 前腾讯 **T11** · 前字节跳动 **3-1** · **Nextfield Labs LLC** 创始人
 
 [![Website](https://img.shields.io/badge/mengjian.site-000?style=for-the-badge&logo=vercel&logoColor=white)](https://mengjian.site)
 [![WeChat](https://img.shields.io/badge/公众号-孟健AI编程-07C160?style=for-the-badge&logo=wechat&logoColor=white)](https://mp.weixin.qq.com/s/Z4k_5_waWJbRRo5lZBZmog)
-[![Book](https://img.shields.io/badge/京东-DeepSeek极简入门与应用-E4393C?style=for-the-badge)](https://item.jd.com/14960026.html)
+[![Book](https://img.shields.io/badge/京东-DeepSeek极简入门·突破百万册-E4393C?style=for-the-badge)](https://item.jd.com/14960026.html)
 
 </div>
 
@@ -21,8 +21,8 @@
 ### 🚀 现在在做什么
 
 - **AI 编程** — 用 OpenClaw / Cursor / Claude Code / Codex 重构生产力
-- **出海产品矩阵** — 30+ SEO 驱动站点，工具型产品集群
-- **技术写作** — 公众号持续更新，已出版 AI 主题书籍
+- **出海产品矩阵** — 字流、ShipSolo，30+ SEO 驱动站点
+- **技术写作** — 《DeepSeek极简入门与应用》突破百万册，公众号持续更新
 
 ### 🛠 技术栈
 
@@ -38,8 +38,8 @@
 
 ### 📊 GitHub Stats
 
-![Repos](https://img.shields.io/badge/Repos-56-F59E0B?style=flat-square&logo=github)
-![Followers](https://img.shields.io/badge/Followers-363-F59E0B?style=flat-square&logo=github)
+![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmengjian-github&query=%24.public_repos&style=flat-square&logo=github&label=Repos&color=F59E0B)
+![Followers](https://img.shields.io/github/followers/mengjian-github?style=flat-square&color=F59E0B&logo=github&label=Followers)
 ![Stars](https://img.shields.io/github/stars/mengjian-github?style=flat-square&color=F59E0B&label=Total%20Stars&affiliations=OWNER)
 
 #### ⭐ 代表仓库
@@ -96,6 +96,11 @@ AI 驱动的 14 平台一键发布工具
 
 [![Website](https://img.shields.io/badge/ziliu.online-live-07C160?style=flat-square)](https://ziliu.online)
 
+#### [🚢 ShipSolo](https://shipsolo.cn)
+AI 编程出海领航
+
+[![Website](https://img.shields.io/badge/shipsolo.cn-live-07C160?style=flat-square)](https://shipsolo.cn)
+
 </td>
 </tr>
 </table>
@@ -111,13 +116,16 @@ AI 驱动的 14 平台一键发布工具
 2012    ─ 2016    西安交通大学 · 自动化科学与技术
 ```
 
-### 🎤 演讲 & 出版
+### 🎤 演讲 / 荣誉 / 媒体
 
-- 📕 **《DeepSeek极简入门与应用》** — 京东有售
+- 📕 **《DeepSeek极简入门与应用》** — 突破百万册（100万+）· 京东有售
 - 📕 **《OpenClaw极简入门与应用》** — 京东有售
-- 🎙️ **GIAC 全球互联网架构大会** 2025 深圳站讲师
-- 🎙️ **GMTC 全球大前端技术大会** 演讲嘉宾
-- 🎙️ **破局 AI 行动家大会** 2025 主会场分享
+- 🏅 首批 **TRAE Expert** · TRAE 2025 **年度社区影响力奖**
+- 🏅 博文视点 **2025 优秀作者** · 破局 **文曲星**（孟健AI编程）· 破局行动 **精英教练**
+- 🏛 **CSDN / GDEC** 2025 AIGC 代码生成分赛道评委
+- 🎙️ **破局**行动家大会 · 深圳主会场 · **TRAE** Shanghai MCP 深度实践 · **OpenClaw** 华语区实战分享
+- 🎙️ GIAC 2025 深圳站 · GMTC 全球大前端技术大会
+- 🎧 小宇宙[《浪说播客》](https://www.xiaoyuzhoufm.com/episode/67e2c9b0a3dfefa31f12fbb3) · 腾讯到字节：AI 时代前端工程师孟健的突围
 
 ---
 
