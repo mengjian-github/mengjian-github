@@ -126,6 +126,7 @@ AI 编程出海领航
 - 🎙️ **破局**行动家大会 · 深圳主会场 · **TRAE** Shanghai MCP 深度实践 · **OpenClaw** 华语区实战分享
 - 🎙️ GIAC 2025 深圳站 · GMTC 全球大前端技术大会
 - 📰 **《每日经济新闻》**[全民「养虾」调查……起底 OpenClaw 背后的算力「刺客」](https://www.nbd.com.cn/articles/2026-03-12/4289959.html) · 谈 OpenClaw「龙虾」成本与安全风险
+- 📰 **程序员客栈**《开发者说》专访 · [从新疆山村到腾讯技术专家，再到AI创业：一个技术人的三次跨越](https://mp.weixin.qq.com/s/PzEF9hm4rB5I75r9TuVDrQ)
 - 🎧 小宇宙[《浪说播客》](https://www.xiaoyuzhoufm.com/episode/67e2c9b0a3dfefa31f12fbb3) · 腾讯到字节：AI 时代前端工程师孟健的突围
 
 ---
